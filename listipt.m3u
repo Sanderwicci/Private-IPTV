@@ -1,4 +1,4 @@
 ﻿#EXTM3U
  
 #EXTINF:0 tvg-id="" group-title="Aire",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1742959622~acl=%2f*~data=hdntl~hmac=986d78d1df8c9a16166e62afd29f45b3d81d8604140969bb3c9f9a10f8ccfe84/master-mtlf.m3u8
