@@ -1,4 +1,4 @@
 ﻿#EXTM3U
  
 #EXTINF:0 tvg-id="" group-title="Aire",Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1742959622~acl=%2f*~data=hdntl~hmac=986d78d1df8c9a16166e62afd29f45b3d81d8604140969bb3c9f9a10f8ccfe84/master-mtlf.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1742869458~exp=1742876658~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=528dc6d81606dec82c5e370b9f3146da01e01e0842e2d023520cf29387c2fd8c
